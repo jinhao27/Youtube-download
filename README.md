@@ -5,8 +5,13 @@ This is a youtube video downloading script created using Selenium and Python tha
 I've always been an avid downloader of youtube videos, whether it be videos or just music. I've enjoyed downloadng from youtube because of the sheer variety of videos and the simplicity of doing it. This was fine and all for when I was downloading music to my phone's original music app. I started sharing spotify accounts with friends, and sometimes only youtube had a specific cover or type of audio that I was looking for. Manually downloading music became tedious, and that is when this script came to life!
 
 ## Screenshots/demo
- - https://ibb.co/4mLD3nm
+Video demo:
  - https://www.youtube.com/watch?v=bq8cLZXc0_Y
+ 
+ Screenshots: 
+![sc1](https://i.ibb.co/3zn2YwK/image.png)
+![sc2](https://i.ibb.co/nmTWrzC/image.png)
+
  
 ## Tech used
 **Built with**
