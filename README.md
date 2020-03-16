@@ -1,4 +1,4 @@
-# Youtube-download# YouTube-script
+# Youtube-download
 This is a youtube video downloading script created using Selenium and Python that automates the youtube to mp3/youtube to mp4 process. It takes in youtube links as input, and the user has choice for customizing their download request. The user can choose between downloadng one youtube video or multiple, as well as between downloading the youtube video(s) as mp3 or mp4. Error trapping to a certain degree has been done so that users can still input youtube links properly and make their choices even if they mistyped something.
 
 ## Motivation
