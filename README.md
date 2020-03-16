@@ -6,7 +6,7 @@ I've always been an avid downloader of youtube videos, whether it be videos or j
 
 ## Screenshots/demo
 Video demo:
- - https://www.youtube.com/watch?v=bq8cLZXc0_Y
+ - https://www.youtube.com/watch?v=4RkT4ACX0Sw&feature=youtu.be
  
  Screenshots: 
  
