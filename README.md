@@ -20,4 +20,4 @@ Video demo:
  - Selenium
  
 ## How to use:
-Just clone my repository :) 
+Just clone my repository and change + download some things. Depending on what web browser you use (chrome, firefox, explorer, etc.), you will need to download a different web drive. After downloading that web drive, you will have to reference the file's location inside the main.py file. https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/ find your browser and follow the instructions to download. 
